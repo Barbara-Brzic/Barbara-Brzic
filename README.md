@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **Barbara-Brzic/Barbara-Brzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-green-animate-old.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Languages and Tools
 
@@ -9,7 +9,7 @@
 ## Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,vue,nodejs,firebase,scss" alt="Currently Exploring" />
+  <img src="https://skillicons.dev/icons?i=angular,vue,nodejs,firebase" alt="Currently Exploring" />
 </p>
 
 ## Certifications
